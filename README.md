@@ -1,6 +1,5 @@
 # hi! i'm azaan
 ---
-
 i'm a first-year undergraduate student pursuing a bachelors in computer engineering, alongside a BS in aeronautics and space technology.
 currently learning C.
 ---
